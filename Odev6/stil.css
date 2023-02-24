@@ -1,0 +1,41 @@
+.bc{
+    background-color: rgb(233, 234, 235);
+}
+
+.box{
+    margin: 0 112px;
+}
+
+.box1{
+    background-color: rgb(126, 229, 218);
+    width: 600px;
+    margin: 1px 1px 0 110px;
+    float:left;
+    height: 63px;
+    padding-top: 10px;
+}
+
+.box2{
+    background-color: rgb(112, 204, 194);
+    width: 400px;
+    float:left;
+    font-size: small;
+    margin:1px;
+    height: 73px;
+}
+
+.box3{
+    background-color: rgb(98, 179, 170);
+    text-align: center;
+    margin: 1px;
+    float:left;
+    width: 680px;
+    font-size:small;
+    height: 40px;
+    display: table;
+}
+
+.footer{
+    text-align: center;
+    margin-top: 100px;
+}
